@@ -2,7 +2,7 @@
 
 ### Hi there!
 
-I'm **Don Schnitzius**, a freelance remote designer, developer, and teacher from Chicago.
+I'm **Don Schnitzius**, a freelance remote designer, developer, and teacher from Chicago, USA.
 
 I design and build beautiful interfaces for apps and websites.
 
