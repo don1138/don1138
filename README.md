@@ -11,6 +11,7 @@ When I'm not slinging pixels and code, I love making music in Logic Pro, and usi
 **Languages and Tools:**
 
 - HTML, CSS, JS, PHP
+- GSAP, Three.js, Barba.js
 - React, NodeJS, Python
 - Xcode, Android Studio, Ionic
 - WordPress, Joomla
