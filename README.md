@@ -6,8 +6,8 @@ When I'm not designing interfaces or writing code, I love to make music in Logic
 
 **Languages and Tools:**
 
-HTML/CSS/JS/PHP | React/NodeJS/Python
-Xcode/Android Studio/Ionic | WordPress/Joomla
+HTML/CSS/JS/PHP | React/NodeJS/Python  
+Xcode/Android Studio/Ionic | WordPress/Joomla  
 Sketch/Figma/Photoshop | Illustrator/InDesign/After Effects
 <!--
 **don1138/don1138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
