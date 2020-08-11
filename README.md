@@ -2,7 +2,8 @@
 
 ### Hi there!
 
-I'm **Don Schnitzius**, a freelance remote designer, developer, and teacher from Chicago. I design and build beautiful interfaces for apps and websites.
+I'm **Don Schnitzius**, a freelance remote designer, developer, and teacher from Chicago.  
+I design and build beautiful interfaces for apps and websites.
 
 When I'm not slinging pixels and code, I love making music in Logic Pro, and using Blender to build 3D models of brutalist and mid-century modern furniture and architecture from found photos.
 
