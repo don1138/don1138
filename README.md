@@ -4,7 +4,7 @@
 
 I'm **Don Schnitzius**, a freelance remote designer, developer, and teacher from Chicago. I design 📐 and build 🛠 beautiful interfaces for apps 📱 and websites 🖥.
 
-When I'm not slinging pixels and code, I love to make music in Logic Pro and use Blender to build 3D models based on found photos of brutalist and mid-century modern furniture and architecture.
+When I'm not slinging pixels and code, I love making music in Logic Pro, and using Blender to build 3D models of brutalist and mid-century modern furniture and architecture from found photos.
 
 **Languages and Tools:**
 
