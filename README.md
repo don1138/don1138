@@ -6,14 +6,35 @@ I'm **Don Schnitzius**, a freelance remote designer, developer, and teacher from
 
 I design and build beautiful interfaces for apps and websites.
 
-When I'm not slinging pixels and code, I love making music in Logic Pro, and using Blender to build 3D models of brutalist and mid-century modern furniture and architecture from found photos.
+When I'm not slinging pixels and code, I love making music in Logic Pro, and modeling brutalist and mid-century modern furniture and architecture in Blender.
 
-**Languages and Tools:**
+**Languages:**
 
-- HTML, CSS, JS, PHP
-- GSAP, Three.js, Barba.js
-- React, NodeJS, Python
-- Xcode, Android Studio, Ionic
-- WordPress, Joomla
-- Sketch, Figma, Photoshop
-- Illustrator, InDesign, After Effects
+- HTML/CSS
+- JavaScript
+- PHP
+- Swift
+- Python
+
+**Frameworks and Libraries:**
+
+- WordPress
+- Joomla
+- React
+- NodeJS
+- Ionic
+- GSAP
+- Three.js
+- Barba.js
+
+**Applications:**
+
+- Xcode
+- Android Studio
+- Sketch
+- Figma
+- Photoshop
+- Illustrator
+- InDesign
+- After Effects
+- Blender
