@@ -13,28 +13,28 @@ When I'm not slinging pixels and code, I love making music in Logic Pro, and mod
 - HTML/CSS
 - JavaScript
 - PHP
-- Swift
 - Python
+- Swift
 
 **Frameworks and Libraries:**
 
-- WordPress
-- Joomla
-- React
-- NodeJS
-- Ionic
-- GSAP
-- Three.js
 - Barba.js
+- GSAP
+- Ionic
+- Joomla
+- NodeJS
+- React
+- Three.js
+- WordPress
 
 **Applications:**
 
-- Xcode
+- After Effects
 - Android Studio
-- Sketch
+- Blender
 - Figma
-- Photoshop
 - Illustrator
 - InDesign
-- After Effects
-- Blender
+- Photoshop
+- Sketch
+- Xcode
