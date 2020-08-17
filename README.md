@@ -37,4 +37,5 @@ When I'm not slinging pixels and code, I love making music in Logic Pro, and mod
 - InDesign
 - Photoshop
 - Sketch
+- VS Code
 - Xcode
