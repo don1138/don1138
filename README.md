@@ -44,3 +44,6 @@ GSAP / Barba.js / Three.js
 - Sketch
 - VS Code
 - Xcode
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='Adobe After Effects' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/androidstudio.svg' alt='Android Studio' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blender.svg' alt='Blender' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='Figma' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='Adobe Illustrator' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeindesign.svg' alt='Adobe InDesign' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sketch.svg' alt='Sketch' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='Adobe Photoshop' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='VS Code' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xcode.svg' alt='xcode' height='32'>
+
