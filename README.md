@@ -29,7 +29,7 @@ When I'm not slinging pixels and code, I love making music in Logic Pro, and mod
 - Three.js
 - WordPress
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node js' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ionic.svg' alt='ionic' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/joomla.svg' alt='joomla' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='32'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node js' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ionic.svg' alt='ionic' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/joomla.svg' alt='joomla' height='32'>&nbsp;&nbsp;&nbsp;<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='32'>  
 GSAP / Barba.js / Three.js
 
 **Applications:**
