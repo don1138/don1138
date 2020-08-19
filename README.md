@@ -22,6 +22,8 @@ When I'm not slinging pixels and code, I love making music in Logic Pro, and mod
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='24'>&nbsp;&nbsp;&nbsp;
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node js' height='24'>&nbsp;&nbsp;&nbsp;
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ionic.svg' alt='ionic' height='24'>&nbsp;&nbsp;&nbsp;
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gatsby.svg' alt='gatsby' height='24'>&nbsp;&nbsp;&nbsp;
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jekyll.svg' alt='jekyll' height='24'>&nbsp;&nbsp;&nbsp;
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/joomla.svg' alt='joomla' height='24'>&nbsp;&nbsp;&nbsp;
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='24'>  
 GSAP / Barba.js / Three.js
