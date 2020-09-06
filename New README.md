@@ -4,15 +4,9 @@
 
 - 🔭 I’m a freelance remote designer, developer, and teacher from Chicago, USA
 
-- 🌱 I’m currently learning Python in Blender
-
-<!-- - 🤝 I’m looking for help with -->
+- 🌱 I’m currently learning how to use Python in Blender3D
 
 - 👯 I’m looking to collaborate on improving the code of [Blender QLE](https://github.com/don1138/blender-qle), my lighting addon for Blender
-
-<!-- - 👨‍💻 All of my projects are available at [donschnitzius.com](http://donschnitzius.com) -->
-
-<!-- - 💬 Ask me about **don1138** -->
 
 - 😍 I love modeling brutalist and mid-century modern furniture and architecture in *(need I say it?)* Blender
 
