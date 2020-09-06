@@ -14,7 +14,7 @@
 
 <!-- - 💬 Ask me about **don1138** -->
 
-- 😍 I love modeling brutalist and mid-century modern furniture and architecture in (say it with me:) Blender
+- 😍 I love modeling brutalist and mid-century modern furniture and architecture in *(need I say it?)* Blender
 
 - 📫 You can reach me at the links below
 
