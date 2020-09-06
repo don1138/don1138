@@ -4,7 +4,7 @@
 
 - 🔭 I’m a freelance remote designer, developer, and teacher from Chicago, USA
 
-- 🌱 I’m currently learning Python in Blender3D
+- 🌱 I’m currently learning Python in Blender
 
 <!-- - 🤝 I’m looking for help with -->
 
@@ -14,7 +14,7 @@
 
 <!-- - 💬 Ask me about **don1138** -->
 
-- 😍 I love modeling brutalist and mid-century modern furniture and architecture in Blender
+- 😍 I love modeling brutalist and mid-century modern furniture and architecture in (say it with me:) Blender
 
 - 📫 You can reach me at the links below
 
