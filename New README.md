@@ -56,6 +56,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-444?style=flat&logo=figma&colorA=222)
 ![Invision](https://img.shields.io/badge/-InVision-444?style=flat&logo=invision&colorA=222)
 ![Sketch](https://img.shields.io/badge/-Sketch-444?style=flat&logo=sketch&colorA=222)
+![Blender](https://img.shields.io/badge/-Blender-444?style=flat&logo=blender&colorA=222)
 
 ![After Effects](https://img.shields.io/badge/-After&nbsp;Effects-444?style=flat&logo=adobe-after-effects&colorA=222)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-444?style=flat&logo=adobe-illustrator&colorA=222)
