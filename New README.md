@@ -36,8 +36,8 @@
 
 ![Android](https://img.shields.io/badge/-Android-444?style=flat&logo=android&colorA=222)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-444?style=flat&logo=gatsby&colorA=222)
+![HubSpot](https://img.shields.io/badge/-HubSpot&nbsp;Native-444?style=flat&logo=hubspot&colorA=222)
 ![Ionic](https://img.shields.io/badge/-Ionic-444?style=flat&logo=ionic&colorA=222)
-![Jekyll](https://img.shields.io/badge/-Jekyll-444?style=flat&logo=jekyll&colorA=222)
 ![Joomla](https://img.shields.io/badge/-Joomla-444?style=flat&logo=joomla&colorA=222)
 ![Node JS](https://img.shields.io/badge/-Node&nbsp;JS-444?style=flat&logo=node.js&colorA=222)
 ![Python](https://img.shields.io/badge/-Python-444?style=flat&logo=python&colorA=222)
