@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Don
 
-- 🔭 I’m a freelance remote designer, developer, and teacher from Chicago, USA
+## I’m a freelance remote designer, developer, and teacher from Chicago, USA
 
 - 💬 Ask me about **UI Best Practices**, **customizing Wordpress**, and **Blender** (see below)
 
@@ -73,7 +73,7 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 
 - 👯 I’m looking to collaborate on improving the code of [**Blender QLE**][5], my lighting addon for Blender
 
-<br/><br/>
+<br/><br/><hr><br/><br/>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&title_color=fffffff5&text_color=e9ff1deb&icon_color=62579d&bg_color=90,16151d,191626,393559,62579d" alt="don1138" /></p>
 
