@@ -68,7 +68,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="256" width="256">
 
-I got on the Blender train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
+I got on the ![#Blender3D](https://twitter.com/hashtag/Blender3d) train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
 
 **Blenderer** is the new **Trekkie**! 🖖
 
