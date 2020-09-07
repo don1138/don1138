@@ -4,7 +4,7 @@
 
 - 🔭 I’m a freelance remote designer, developer, and teacher from Chicago, USA
 
-- Ask me about **UI Best Practices**, **customizing Wordpress**, and **Blender** (see below)
+- 💬 Ask me about **UI Best Practices**, **customizing Wordpress**, and **Blender** (see below)
 
 - 📫 You can find me at these links:
 
