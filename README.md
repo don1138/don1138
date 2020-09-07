@@ -79,7 +79,7 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 
 <p align="center"><a href="https://gist.github.com/don1138"><img align="center" src="https://gist-count.vercel.app/api?username=don1138" alt="don1138's Gists"></a></p>
 
-[![Gists Badge](https://badges.pufler.dev/gists/don1138?style=for-the-badge&colorA=222)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/don1138?style=for-the-badge&colorA=222&colorB=666)](https://badges.pufler.dev)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=don1138)](https://github.com/ryo-ma/github-profile-trophy) -->
 
