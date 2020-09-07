@@ -71,9 +71,9 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 
 - 👯 I’m looking to collaborate on improving the code of [**Blender QLE**][5], my lighting addon for Blender
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=don1138&layout=compact&hide=html" alt="don1138" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=don1138" alt="don1138" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&layout=compact" alt="don1138" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&title_color=1b1f23" alt="don1138" />
 
 [1]: mailto:don.schnitzius@gmail.com
 [2]: http://twitter.com/don1138
