@@ -59,8 +59,9 @@
 
 <br/>
 
-<img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif">  
 ## Blender
+
+<img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="340" width="340">  
 
 I got on the Blender train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
 
