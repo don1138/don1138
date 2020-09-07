@@ -1,7 +1,9 @@
 ![Don Schnitzius Github Header](https://raw.githubusercontent.com/don1138/don1138/master/github-header.jpg). 
 <img align="right" src="https://komarev.com/ghpvc/?username=don1138&style=flat-square&label=PROFILE+VIEWS&color=222222" alt="don1138"/>
 
-# Hi 👋, I'm Don
+[![Github gists](https://gist-count.vercel.app/api?username=don1138)](https://gist.github.com/lifeparticle)
+
+# Hi there 👋, I'm Don
 
 - 🔭 I’m a freelance remote designer, developer, and teacher from Chicago, USA
 
