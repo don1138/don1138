@@ -17,7 +17,7 @@
 
 ## My Core Tools:
 
-![CSS](https://img.shields.io/badge/-CSS-444?style=flat&logo=css3&colorA=222)
+![CSS](https://img.shields.io/badge/-CSS-444?style=for-the-badge&logo=css3&colorA=222)
 ![HTML](https://img.shields.io/badge/-HTML-444?style=flat&logo=html5&colorA=222)
 ![GIT](https://img.shields.io/badge/-GIT-444?style=flat&logo=git&colorA=222)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444?style=flat&logo=javascript&colorA=222)
