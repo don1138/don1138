@@ -59,6 +59,8 @@
 
 <br/>
 
+<blockquote>
+
 ## Blender
 
 <img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="340" width="340">  
@@ -73,6 +75,8 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 
 - 👯 I’m looking to collaborate on improving the code of [**Blender QLE**][5], my lighting addon for Blender
 
+<blockquote>
+  
 <br/><br/>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&title_color=fffffff5&text_color=e9ff1deb&icon_color=62579d&bg_color=90,16151d,191626,393559,62579d" alt="don1138" /></p>
