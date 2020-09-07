@@ -76,7 +76,7 @@ I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> 
 
 - 🌱 I’m currently learning how Python manipulates Blender
 
-- 👯 I’m looking to collaborate on improving the code of [**Blender QLE**][5], my lighting addon for Blender. *(It functions well, but the code is about as sophisticated as "Hello World". I could use some mentoring in techniques to optimize and slim it down.)*
+- 👯 I’m looking to collaborate on improving the code of [**Blender QLE**][5], my lighting addon for Blender. *(It functions well, but the scripting is about as sophisticated as "Hello World". I could use some mentoring in techniques to optimize and slim it down.)*
 
 <br/><br/><hr>
 
