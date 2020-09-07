@@ -4,12 +4,6 @@
 
 - 🔭 I’m a freelance remote designer, developer, and teacher from Chicago, USA
 
-- 🌱 I’m currently learning how to use Python in Blender3D
-
-- 👯 I’m looking to collaborate on improving the code of [Blender QLE](https://github.com/don1138/blender-qle), my lighting addon for Blender
-
-- 😍 I love modeling brutalist and mid-century modern furniture and architecture in *(need I say it?)* Blender
-
 - 📫 You can find me at the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:don.schnitzius@gmail.com)&nbsp;
@@ -59,3 +53,13 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-444?style=flat&logo=adobe-illustrator&colorA=222)
 ![InDesign](https://img.shields.io/badge/-InDesign-444?style=flat&logo=adobe-indesign&colorA=222)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-444?style=flat&logo=adobe-photoshop&colorA=222)
+
+***
+
+### Blender
+
+- 🌱 I’m currently learning how to use Python in Blender3D
+
+- 👯 I’m looking to collaborate on improving the code of [Blender QLE](https://github.com/don1138/blender-qle), my lighting addon for Blender
+
+- 😍 I love modeling brutalist and mid-century modern furniture and architecture in *(need I say it?)* Blender
