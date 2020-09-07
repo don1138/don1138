@@ -60,7 +60,9 @@
 
 ## Blender
 
-I got on the Blender train with the v.2.8 update. The UI was such a massive improvement that it got me hooked. **Blenderer** is the new **Trekkie**! 🖖
+I got on the Blender train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
+
+> **Blenderer** is the new **Trekkie**! 🖖
 
 - 😍 I love modeling brutalist and mid-century modern furniture and architecture
 
