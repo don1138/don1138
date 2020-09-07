@@ -8,9 +8,9 @@
 
 - 📫 You can find me at these links:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=222)](mailto:don.schnitzius@gmail.com)&nbsp;
-[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&colorA=222)](http://twitter.com/don1138)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222)](http://www.linkedin.com/in/donschnitzius/)&nbsp;
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=222)][1]&nbsp;
+[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&colorA=222)][2]&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222)][3]&nbsp;
 [![donschnitzius.com](https://img.shields.io/badge/-DONSCHNITZIUS.COM-89aa2f?style=for-the-badge&colorA=222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjkyIDBBMy4wOCAzLjA4IDAgMCAxIDE0IDMuMDh2Ny44NEEzLjA4IDMuMDggMCAwIDEgMTAuOTIgMTRIMy4wOEEzLjA4IDMuMDggMCAwIDEgMCAxMC45MlYzLjA4QTMuMDggMy4wOCAwIDAgMSAzLjA4IDBoNy44NHpNNC4wNCAyQzMuMDA0IDIgMi41IDIuNTMyIDIuNSAzLjU5NnY2LjcyYzAgMS4yODguNDQ4IDEuODQ4IDEuNTk2IDEuODQ4aDEuODJjMy44MDggMCA1LjcxMi0xLjcwOCA1LjcxMi01LjA5NiAwLTEuOTMyLS42MTYtMy4zNi0xLjkzMi00LjJDOC4zMjQgMiA3LjU5NiAyIDQuMDQgMnptMi43MiAyLjQwOGMuODEyIDAgMi4xLjc1NiAyLjEgMi43NzIgMCAxLjIzMi0uNzU2IDIuNTc2LTIuMzggMi41NzYtLjcgMC0xLjI2LS41MzItMS4yNi0xLjYyNFY2LjUwOGMwLTEuNzM2LjM5Mi0yLjEgMS41NC0yLjF6IiBmaWxsPSIjQTZDRTM5Ii8+PC9zdmc+Cg==)](http://www.donschnitzius.com/)
 
 <br/>
@@ -62,10 +62,16 @@
 
 I got on the Blender train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
 
-> **Blenderer** is the new **Trekkie**! 🖖
+**Blenderer** is the new **Trekkie**! 🖖
 
 - 😍 I love modeling brutalist and mid-century modern furniture and architecture
 
 - 🌱 I’m currently learning Python in Blender
 
-- 👯 I’m looking to collaborate on improving the code of [**Blender QLE**](https://github.com/don1138/blender-qle), my lighting addon for Blender
+- 👯 I’m looking to collaborate on improving the code of [**Blender QLE**][4], my lighting addon for Blender
+
+
+[1](mailto:don.schnitzius@gmail.com)
+[2](http://twitter.com/don1138)
+[3](http://www.linkedin.com/in/donschnitzius/)
+[4](https://github.com/don1138/blender-qle)
