@@ -75,6 +75,8 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&title_color=fffffff5&text_color=e9ff1deb&icon_color=62579d&bg_color=90,16151d,191626,393559,62579d" alt="don1138" /></p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=don1138-droid&theme=gruvbox)
+
 [1]: mailto:don.schnitzius@gmail.com
 [2]: http://twitter.com/don1138
 [3]: http://www.linkedin.com/in/donschnitzius/
