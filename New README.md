@@ -70,7 +70,7 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 
 - 👯 I’m looking to collaborate on improving the code of [**Blender QLE**][5], my lighting addon for Blender
 
-<img align="center" src="https://komarev.com/ghpvc/?username=don1138" alt="don1138"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=don1138&style=flat-square&label=PROFILE+VIEWS&color=d3d3d3" alt="don1138"/>
 
 [1]: mailto:don.schnitzius@gmail.com
 [2]: http://twitter.com/don1138
