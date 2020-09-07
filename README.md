@@ -75,7 +75,7 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 
 - 👯 I’m looking to collaborate on improving the code of [**Blender QLE**][5], my lighting addon for Blender
 
-<blockquote>
+</blockquote>
   
 <br/><br/>
 
