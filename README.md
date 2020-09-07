@@ -76,9 +76,10 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 <br/><br/><hr>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&title_color=fffffff5&text_color=e9ff1deb&icon_color=62579d&bg_color=90,16151d,191626,393559,62579d" alt="Github Stats for don1138" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&title_color=fffffff5&text_color=e9ff1deb&icon_color=62579d&bg_color=90,16151d,191626,393559,62579d" alt="Github Stats for don1138" /><br/>
   <a href="https://gist.github.com/don1138"><img align="center" src="https://gist-count.vercel.app/api?username=don1138" alt="don1138's Gists"></a>
   <a href="https://gist.github.com/don1138"><img align="center" src="https://badges.pufler.dev/gists/don1138?style=for-the-badge&colorA=222&colorB=6668" alt="don1138's Gists"></a>
+  <img align="center" src="https://badges.pufler.dev/years/don1138?style=for-the-badge&colorA=222&colorB=6668" alt="don1138 Years Active"
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=don1138)](https://github.com/ryo-ma/github-profile-trophy) -->
 
