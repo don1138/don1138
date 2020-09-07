@@ -1,10 +1,12 @@
 ![Don Schnitzius Github Header](https://raw.githubusercontent.com/don1138/don1138/master/github-header.jpg)
 
-## Hi 👋, I'm Don
+# Hi 👋, I'm Don
 
 - 🔭 I’m a freelance remote designer, developer, and teacher from Chicago, USA
 
-- 📫 You can find me at the links below
+- Ask me about **UI Best Practices**, **customizing Wordpress**, and **Blender** (see below)
+
+- 📫 You can find me at these links:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:don.schnitzius@gmail.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/don1138)&nbsp;
@@ -58,8 +60,10 @@
 
 ## Blender
 
-- 🌱 I’m currently learning how to use Python in Blender3D
+I got on the Blender train with the v.2.8 update. The UI was such a massive improvement that it got me hooked. **Blenderer** is the new **Trekkie**! 🖖
+
+- 😍 I love modeling brutalist and mid-century modern furniture and architecture
+
+- 🌱 I’m currently learning Python in Blender
 
 - 👯 I’m looking to collaborate on improving the code of [Blender QLE](https://github.com/don1138/blender-qle), my lighting addon for Blender
-
-- 😍 I love modeling brutalist and mid-century modern furniture and architecture in *(need I say it?)* Blender
