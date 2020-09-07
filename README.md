@@ -59,9 +59,9 @@
 
 <br/>
 
-<blockquote>
-
 <img align="left" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="340" width="340">  
+
+<blockquote>
 
 ## Blender
 
