@@ -9,10 +9,10 @@
 - 📫 You can find me at these links:
 
 <p align="center">
-  <a href="mailto:don.schnitzius@gmail.com"><img align="center" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=222" alt="Gmail"></a>
-  <a href="http://twitter.com/don1138"><img align="center" src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&colorA=222" alt="Twitter"></a>
-  <a href="http://www.linkedin.com/in/donschnitzius/"><img align="center" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222" alt="LinkedIn"></a>
-  <a href="http://www.donschnitzius.com/"><img align="center" src="https://img.shields.io/badge/-DONSCHNITZIUS.COM-89aa2f?style=for-the-badge&colorA=222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjkyIDBBMy4wOCAzLjA4IDAgMCAxIDE0IDMuMDh2Ny44NEEzLjA4IDMuMDggMCAwIDEgMTAuOTIgMTRIMy4wOEEzLjA4IDMuMDggMCAwIDEgMCAxMC45MlYzLjA4QTMuMDggMy4wOCAwIDAgMSAzLjA4IDBoNy44NHpNNC4wNCAyQzMuMDA0IDIgMi41IDIuNTMyIDIuNSAzLjU5NnY2LjcyYzAgMS4yODguNDQ4IDEuODQ4IDEuNTk2IDEuODQ4aDEuODJjMy44MDggMCA1LjcxMi0xLjcwOCA1LjcxMi01LjA5NiAwLTEuOTMyLS42MTYtMy4zNi0xLjkzMi00LjJDOC4zMjQgMiA3LjU5NiAyIDQuMDQgMnptMi43MiAyLjQwOGMuODEyIDAgMi4xLjc1NiAyLjEgMi43NzIgMCAxLjIzMi0uNzU2IDIuNTc2LTIuMzggMi41NzYtLjcgMC0xLjI2LS41MzItMS4yNi0xLjYyNFY2LjUwOGMwLTEuNzM2LjM5Mi0yLjEgMS41NC0yLjF6IiBmaWxsPSIjQTZDRTM5Ii8+PC9zdmc+Cg==" alt="Don Schnitzius dot com"></a>
+  <a href="mailto:don.schnitzius@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=222" alt="Gmail"></a>
+  <a href="http://twitter.com/don1138"><img src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&colorA=222" alt="Twitter"></a>
+  <a href="http://www.linkedin.com/in/donschnitzius/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222" alt="LinkedIn"></a>
+  <a href="http://www.donschnitzius.com/"><img src="https://img.shields.io/badge/-DONSCHNITZIUS.COM-89aa2f?style=for-the-badge&colorA=222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjkyIDBBMy4wOCAzLjA4IDAgMCAxIDE0IDMuMDh2Ny44NEEzLjA4IDMuMDggMCAwIDEgMTAuOTIgMTRIMy4wOEEzLjA4IDMuMDggMCAwIDEgMCAxMC45MlYzLjA4QTMuMDggMy4wOCAwIDAgMSAzLjA4IDBoNy44NHpNNC4wNCAyQzMuMDA0IDIgMi41IDIuNTMyIDIuNSAzLjU5NnY2LjcyYzAgMS4yODguNDQ4IDEuODQ4IDEuNTk2IDEuODQ4aDEuODJjMy44MDggMCA1LjcxMi0xLjcwOCA1LjcxMi01LjA5NiAwLTEuOTMyLS42MTYtMy4zNi0xLjkzMi00LjJDOC4zMjQgMiA3LjU5NiAyIDQuMDQgMnptMi43MiAyLjQwOGMuODEyIDAgMi4xLjc1NiAyLjEgMi43NzIgMCAxLjIzMi0uNzU2IDIuNTc2LTIuMzggMi41NzYtLjcgMC0xLjI2LS41MzItMS4yNi0xLjYyNFY2LjUwOGMwLTEuNzM2LjM5Mi0yLjEgMS41NC0yLjF6IiBmaWxsPSIjQTZDRTM5Ii8+PC9zdmc+Cg==" alt="Don Schnitzius dot com"></a>
 </p>
 <br/>
 
@@ -81,11 +81,11 @@ I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> 
 <br/><br/><hr>
 
 <p align="center">
-  <a href="https://gist.github.com/don1138"><img align="center" src="https://badges.pufler.dev/gists/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="don1138's Gists"></a>
-  <img align="center" src="https://badges.pufler.dev/repos/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="don1138 Repos">
-  <img align="center" src="https://badges.pufler.dev/years/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="don1138 Years Active">
-  <img align="center" src="https://badges.pufler.dev/commits/monthly/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="Monthly Commits"><br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&title_color=fffffff5&text_color=e9ff1deb&icon_color=62579d&bg_color=90,16151d,191626,393559,62579d" alt="Github Stats for don1138" />
+  <a href="https://gist.github.com/don1138"><img src="https://badges.pufler.dev/gists/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="don1138's Gists"></a>
+  <img src="https://badges.pufler.dev/repos/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="don1138 Repos">
+  <img src="https://badges.pufler.dev/years/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="don1138 Years Active">
+  <img src="https://badges.pufler.dev/commits/monthly/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="Monthly Commits"><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&title_color=fffffff5&text_color=e9ff1deb&icon_color=62579d&bg_color=90,16151d,191626,393559,62579d" alt="Github Stats for don1138" />
 </p>
 
 <!-- [<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=don1138)" src="https://github.com/ryo-ma/github-profile-trophy) -->
