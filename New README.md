@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=don1138&style=flat-square&label=PROFILE+VIEWS&color=222" alt="don1138"/>
+
 ![Don Schnitzius Github Header](https://raw.githubusercontent.com/don1138/don1138/master/github-header.jpg)
 
 # Hi 👋, I'm Don
@@ -69,8 +71,6 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 - 🌱 I’m currently learning Python in Blender
 
 - 👯 I’m looking to collaborate on improving the code of [**Blender QLE**][5], my lighting addon for Blender
-
-<img align="right" src="https://komarev.com/ghpvc/?username=don1138&style=flat-square&label=PROFILE+VIEWS&color=c22900" alt="don1138"/>
 
 [1]: mailto:don.schnitzius@gmail.com
 [2]: http://twitter.com/don1138
