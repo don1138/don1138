@@ -56,7 +56,7 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-444?style=flat&logo=adobe-indesign&colorA=222)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-444?style=flat&logo=adobe-photoshop&colorA=222)
 
-
+<br/>
 
 ## Blender
 
