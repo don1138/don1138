@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="mailto:don.schnitzius@gmail.com"><img align="center" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=222" alt="Gmail"></a>
-  <a href="http://twitter.com/don1138"><img align="center" src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&colorA=222" alt="Twitter"></a>
-  <a href="http://www.linkedin.com/in/donschnitzius/"><img align="center" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222" alt="LinkedIn"></a>
-  <a href="http://www.donschnitzius.com/"><img align="center" src="https://img.shields.io/badge/-DONSCHNITZIUS.COM-89aa2f?style=for-the-badge&colorA=222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjkyIDBBMy4wOCAzLjA4IDAgMCAxIDE0IDMuMDh2Ny44NEEzLjA4IDMuMDggMCAwIDEgMTAuOTIgMTRIMy4wOEEzLjA4IDMuMDggMCAwIDEgMCAxMC45MlYzLjA4QTMuMDggMy4wOCAwIDAgMSAzLjA4IDBoNy44NHpNNC4wNCAyQzMuMDA0IDIgMi41IDIuNTMyIDIuNSAzLjU5NnY2LjcyYzAgMS4yODguNDQ4IDEuODQ4IDEuNTk2IDEuODQ4aDEuODJjMy44MDggMCA1LjcxMi0xLjcwOCA1LjcxMi01LjA5NiAwLTEuOTMyLS42MTYtMy4zNi0xLjkzMi00LjJDOC4zMjQgMiA3LjU5NiAyIDQuMDQgMnptMi43MiAyLjQwOGMuODEyIDAgMi4xLjc1NiAyLjEgMi43NzIgMCAxLjIzMi0uNzU2IDIuNTc2LTIuMzggMi41NzYtLjcgMC0xLjI2LS41MzItMS4yNi0xLjYyNFY2LjUwOGMwLTEuNzM2LjM5Mi0yLjEgMS41NC0yLjF6IiBmaWxsPSIjQTZDRTM5Ii8+PC9zdmc+Cg==" alt="Don Schnitzius dot com"></a>
+  <a href="http://twitter.com/don1138" target="_blank"><img align="center" src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&colorA=222" alt="Twitter"></a>
+  <a href="http://www.linkedin.com/in/donschnitzius/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222" alt="LinkedIn"></a>
+  <a href="http://www.donschnitzius.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/-DONSCHNITZIUS.COM-89aa2f?style=for-the-badge&colorA=222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjkyIDBBMy4wOCAzLjA4IDAgMCAxIDE0IDMuMDh2Ny44NEEzLjA4IDMuMDggMCAwIDEgMTAuOTIgMTRIMy4wOEEzLjA4IDMuMDggMCAwIDEgMCAxMC45MlYzLjA4QTMuMDggMy4wOCAwIDAgMSAzLjA4IDBoNy44NHpNNC4wNCAyQzMuMDA0IDIgMi41IDIuNTMyIDIuNSAzLjU5NnY2LjcyYzAgMS4yODguNDQ4IDEuODQ4IDEuNTk2IDEuODQ4aDEuODJjMy44MDggMCA1LjcxMi0xLjcwOCA1LjcxMi01LjA5NiAwLTEuOTMyLS42MTYtMy4zNi0xLjkzMi00LjJDOC4zMjQgMiA3LjU5NiAyIDQuMDQgMnptMi43MiAyLjQwOGMuODEyIDAgMi4xLjc1NiAyLjEgMi43NzIgMCAxLjIzMi0uNzU2IDIuNTc2LTIuMzggMi41NzYtLjcgMC0xLjI2LS41MzItMS4yNi0xLjYyNFY2LjUwOGMwLTEuNzM2LjM5Mi0yLjEgMS41NC0yLjF6IiBmaWxsPSIjQTZDRTM5Ii8+PC9zdmc+Cg==" alt="Don Schnitzius dot com"></a>
 </p>
 <br/>
 
@@ -68,7 +68,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="256" width="256">
 
-I got on the ![#Blender3D](https://twitter.com/hashtag/Blender3d) train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
+I got on the <a href="https://twitter.com/hashtag/Blender3d" target="_blank">**#Blender3D**</a> train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
 
 **Blenderer** is the new **Trekkie**! 🖖
 
