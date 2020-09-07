@@ -1,8 +1,6 @@
 ![Don Schnitzius Github Header](https://raw.githubusercontent.com/don1138/don1138/master/github-header.jpg). 
 <img align="right" src="https://komarev.com/ghpvc/?username=don1138&style=flat-square&label=PROFILE+VIEWS&color=222222" alt="don1138"/>
 
-[![Github gists](https://gist-count.vercel.app/api?username=don1138)](https://gist.github.com/lifeparticle)
-
 # Hi there 👋, I'm Don
 
 - 🔭 I’m a freelance remote designer, developer, and teacher from Chicago, USA
@@ -78,6 +76,8 @@ I got on the Blender train with the v.2.8 update. The UI was such a massive impr
 <br/><br/>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=don1138&show_icons=true&title_color=fffffff5&text_color=e9ff1deb&icon_color=62579d&bg_color=90,16151d,191626,393559,62579d" alt="don1138" /></p>
+
+[![Github gists](https://gist-count.vercel.app/api?username=don1138)](https://gist.github.com/don1138)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=don1138)](https://github.com/ryo-ma/github-profile-trophy) -->
 
