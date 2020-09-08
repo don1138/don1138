@@ -18,7 +18,7 @@
 
 ## My Core Tools:
 
-<p align="center">
+<p align="left">
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&colorA=222">
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&colorA=222">
 <img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&colorA=222">
@@ -30,7 +30,7 @@
 
 ### I'm Also Experienced In:
 
-<p align="center">
+<p align="left">
 <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&colorA=222">
 <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&colorA=222">
 <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&colorA=222">
@@ -47,7 +47,7 @@
 
 ### My Most-Used Applications:
 
-<p align="right">
+<p align="left">
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android&nbsp;Studio-3DDC84?style=for-the-badge&logo=android-studio&colorA=222">
 <img alt="VS Code" src="https://img.shields.io/badge/-VS&nbsp;Code-007ACC?style=for-the-badge&logo=visual-studio-code&colorA=222">
 <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&colorA=222">
@@ -66,7 +66,7 @@
 
 ## Blender
 
-<img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="256" width="256">
+<img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="256" width="256" style="">
 
 I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
 
