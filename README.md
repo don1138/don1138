@@ -66,7 +66,7 @@
 
 ## Blender
 
-<img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="256" width="256" style="">
+<img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="256" width="256" style="margin:1rem">
 
 I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
 
