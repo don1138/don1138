@@ -20,12 +20,12 @@
 
 <p align="center">
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&colorA=222">
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-666?style=for-the-badge&logo=html5&colorA=222">
-<img alt="GIT" src="https://img.shields.io/badge/-GIT-666?style=for-the-badge&logo=git&colorA=222">
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-666?style=for-the-badge&logo=javascript&colorA=222">
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-666?style=for-the-badge&logo=php&colorA=222">
-<img alt="Swift" src="https://img.shields.io/badge/-Swift-666?style=for-the-badge&logo=swift&colorA=222">
-<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-666?style=for-the-badge&logo=wordpress&colorA=222">
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&colorA=222">
+<img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&colorA=222">
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&colorA=222">
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&colorA=222">
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&colorA=222">
+<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&colorA=222">
 </p>
 
 ### I'm Also Experienced In:
