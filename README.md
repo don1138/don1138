@@ -37,7 +37,6 @@
 <img alt="Node JS" src="https://img.shields.io/badge/-Node&nbsp;JS-339933?style=flat-square&logo=node.js&colorA=222">
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&colorA=222">
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&colorA=222">
-&nbsp;|&nbsp;
 <img alt="HubSpot" src="https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&colorA=222">
 <img alt="Joomla" src="https://img.shields.io/badge/-Joomla-5091CD?style=flat-square&logo=joomla&colorA=222">
 <img alt="Barba JS" src="https://img.shields.io/badge/-Barba&nbsp;JS-2E5BDC?style=flat-square&colorA=222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48Y2lyY2xlIGZpbGw9IiMyRTVCREMiIGN4PSI3IiBjeT0iNyIgcj0iNyIvPjxwYXRoIGQ9Ik00IDEyVjJoMy4yNzl2My42MzJDOC43OCA1Ljc3OSA5Ljk2IDcuMTA0IDEwIDguNzI3bC4wMDEuMDg2LS4wMDEuMDg1Yy0uMDQ0IDEuNjk1LTEuMzMxIDMuMDU3LTIuOTIzIDMuMUw3IDEySDR6bTMuMDcyLTUuNzg4SDdjLTEuMzI0IDAtMi40MDMgMS4xMjMtMi40NDEgMi41MmwtLjAwMS4wNzd2LjA3N2EyLjc3MiAyLjc3MiAwIDAgMCAuMTI0Ljc0M2MuMDM1LjExLjA3Ny4yMTguMTI0LjMyMmwuMDMuMDY0Yy4wMjUuMDQ4LjA1LjA5Ni4wNzcuMTQzLjQxNy43MjggMS4xNjIgMS4yMjEgMi4wMTUgMS4yNDhIN2MxLjI5OCAwIDIuMzY2LTEuMDgyIDIuNDM4LTIuNDQ0bC4wMDMtLjA3Ni4wMDEtLjA3N2MwLTEuMzgtMS4wMTgtMi41MTYtMi4yOTgtMi41OTNsLS4wNzItLjAwNHptLTIuNTE0IDQuNDV2Ljc0NWguN2wtLjA0LS4wMzJhMy4wNDkgMy4wNDkgMCAwIDEtLjEwMS0uMDgzbC0uMDc4LS4wNjktLjA4Ni0uMDgyLS4wNzItLjA3NC0uMDktLjEtLjA2NS0uMDc4LS4wNzgtLjEtLjA2LS4wODMtLjAzLS4wNDV6TTYuNzIgMi41OTJINC41NTh2NC4zNjNsLjAzLS4wNDNjLjAyLS4wMy4wNDItLjA2LjA2NC0uMDg5bC4wNDgtLjA2Mi4wNy0uMDg2LjA1OS0uMDY4LjA2LS4wNjYuMDczLS4wNzMuMDg2LS4wODMuMDQ4LS4wNDIuMDYzLS4wNTQuMDg3LS4wNy4wNjEtLjA0NS4wOC0uMDU2LjA3My0uMDQ5LjA4OC0uMDUzLjA3LS4wNC4xMTktLjA2My4wNTctLjAyN2MuMDUtLjAyMy4wOTktLjA0NS4xNS0uMDY1bC4xMTctLjA0NC4wNzMtLjAyNWMuMDU2LS4wMTguMTEzLS4wMzQuMTctLjA0OWwuMTIyLS4wMjcuMDg4LS4wMTcuMDktLjAxNC4wOC0uMDEuMDM3LS4wMDRWMi41OTN6IiBmaWxsPSIjRkZGIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48L2c+PC9zdmc+">
@@ -51,12 +50,10 @@
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android&nbsp;Studio-3DDC84?style=flat-square&logo=android-studio&colorA=222">
 <img alt="VS Code" src="https://img.shields.io/badge/-VS&nbsp;Code-007ACC?style=flat-square&logo=visual-studio-code&colorA=222">
 <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&colorA=222">
-<br/><br/>
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&colorA=222">
 <img alt="Invision" src="https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=invision&colorA=222">
 <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&colorA=222">
 <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&colorA=222">
-<br/><br/>
 <img alt="After Effects" src="https://img.shields.io/badge/-After&nbsp;Effects-9999FF?style=flat-square&logo=adobe-after-effects&colorA=222">
 <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&colorA=222">
 <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-EE3D8F?style=flat-square&logo=adobe-indesign&colorA=222">
