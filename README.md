@@ -48,19 +48,19 @@
 ### My Most-Used Applications
 
 <p align="left">
-<img alt="Android Studio" src="https://img.shields.io/badge/-Android&nbsp;Studio-3DDC84?style=for-the-badge&logo=android-studio&colorA=222">
-<img alt="VS Code" src="https://img.shields.io/badge/-VS&nbsp;Code-007ACC?style=for-the-badge&logo=visual-studio-code&colorA=222">
-<img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&colorA=222">
+<img alt="Android Studio" src="https://img.shields.io/badge/-Android&nbsp;Studio-3DDC84?style=flat-square&logo=android-studio&colorA=222">
+<img alt="VS Code" src="https://img.shields.io/badge/-VS&nbsp;Code-007ACC?style=flat-square&logo=visual-studio-code&colorA=222">
+<img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&colorA=222">
 <br/><br/>
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&colorA=222">
-<img alt="Invision" src="https://img.shields.io/badge/-InVision-FF3366?style=for-the-badge&logo=invision&colorA=222">
-<img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&colorA=222">
-<img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&colorA=222">
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&colorA=222">
+<img alt="Invision" src="https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=invision&colorA=222">
+<img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&colorA=222">
+<img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&colorA=222">
 <br/><br/>
-<img alt="After Effects" src="https://img.shields.io/badge/-After&nbsp;Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&colorA=222">
-<img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&colorA=222">
-<img alt="InDesign" src="https://img.shields.io/badge/-InDesign-EE3D8F?style=for-the-badge&logo=adobe-indesign&colorA=222">
-<img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&colorA=222">
+<img alt="After Effects" src="https://img.shields.io/badge/-After&nbsp;Effects-9999FF?style=flat-square&logo=adobe-after-effects&colorA=222">
+<img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&colorA=222">
+<img alt="InDesign" src="https://img.shields.io/badge/-InDesign-EE3D8F?style=flat-square&logo=adobe-indesign&colorA=222">
+<img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&colorA=222">
 </p>
 <br/>
 
