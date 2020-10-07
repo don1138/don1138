@@ -73,7 +73,7 @@ I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> 
 
 - 🌱 I’m currently learning how Python manipulates Blender
 
-- 👯 I’m looking to collaborate on improving of [**Blender QLE**][5], my lighting addon for Blender.
+- 👯 I’m looking to collaborate on improving of [**Blender QLE**][5], my lighting addon.
 
 <br/><br/><hr>
 
