@@ -69,7 +69,7 @@ I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> 
 
 🖖 **Blenderer** is the new **Trekkie**! 🖖
 
-- 😍 I love modeling brutalist and mid-century modern furniture and architecture. I've posted some projects on <a href="https://www.artstation.com/don1138">ArtStation</a>.
+- 😍 I love modeling brutalist and mid-century modern furniture and architecture. I've posted some projects on <a href="https://www.artstation.com/don1138">**ArtStation**</a>.
 
 - 🌱 I’m currently learning how Python manipulates Blender
 
