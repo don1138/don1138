@@ -71,7 +71,7 @@ I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> 
 
 - 😍 I love modeling brutalist and mid-century modern furniture and architecture. I've posted some projects on <a href="https://www.artstation.com/don1138">**ArtStation**</a>.
 
-- 🌱 I’m currently learning how Python manipulates Blender
+- 🌱 I’m *slowly* but continually learning how to use Python to manipulate Blender
 
 - 👯 I’m looking to collaborate on improving my Blender add-ons, and on Blender stuff in general.
 
