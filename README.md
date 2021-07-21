@@ -73,7 +73,7 @@ I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> 
 
 - 🌱 I’m currently learning how Python manipulates Blender
 
-- 👯 I’m looking to collaborate on improving of [**Blender QLE**][5], my lighting addon.
+- 👯 I’m looking to collaborate on improving my Blender add-ons, and on Blender stuff in general.
 
 <br/><br/><hr>
 
@@ -86,5 +86,3 @@ I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> 
 </p>
 
 <!-- [<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=don1138)" src="https://github.com/ryo-ma/github-profile-trophy) -->
-
-[5]: https://github.com/don1138/blender-qle
