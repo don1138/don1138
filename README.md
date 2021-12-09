@@ -1,18 +1,18 @@
 <img alt="Don Schnitzius Github Header" src="https://raw.githubusercontent.com/don1138/don1138/master/github-header.jpg"><br/><img align="right" src="https://komarev.com/ghpvc/?username=don1138&style=flat-square&label=PROFILE+VIEWS&color=222222" alt="don1138"/>
 
-# Hi there 👋, I'm Don
+# Hi, I'm Don Schnitzius
 
 ## I’m a freelance remote designer, developer, and teacher from Chicago, USA
 
-- 💬 Ask me about **SwiftUI**, **Wordpress PHP**, and **Blender** (see below)
+- Ask me about **SwiftUI**, **Wordpress PHP**, and **Blender** (see below)
 
-- 📫 You can find me at these links:
+You can find me at these links:
 
-<p align="center">
-  <a href="mailto:don.schnitzius@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=222" alt="Gmail"></a>
-  <a href="http://twitter.com/don1138"><img src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&colorA=222" alt="Twitter"></a>
-  <a href="http://www.linkedin.com/in/donschnitzius/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222" alt="LinkedIn"></a>
+<p align="left">
   <a href="http://www.donschnitzius.com/"><img src="https://img.shields.io/badge/-DONSCHNITZIUS.COM-89aa2f?style=for-the-badge&colorA=222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjkyIDBBMy4wOCAzLjA4IDAgMCAxIDE0IDMuMDh2Ny44NEEzLjA4IDMuMDggMCAwIDEgMTAuOTIgMTRIMy4wOEEzLjA4IDMuMDggMCAwIDEgMCAxMC45MlYzLjA4QTMuMDggMy4wOCAwIDAgMSAzLjA4IDBoNy44NHpNNC4wNCAyQzMuMDA0IDIgMi41IDIuNTMyIDIuNSAzLjU5NnY2LjcyYzAgMS4yODguNDQ4IDEuODQ4IDEuNTk2IDEuODQ4aDEuODJjMy44MDggMCA1LjcxMi0xLjcwOCA1LjcxMi01LjA5NiAwLTEuOTMyLS42MTYtMy4zNi0xLjkzMi00LjJDOC4zMjQgMiA3LjU5NiAyIDQuMDQgMnptMi43MiAyLjQwOGMuODEyIDAgMi4xLjc1NiAyLjEgMi43NzIgMCAxLjIzMi0uNzU2IDIuNTc2LTIuMzggMi41NzYtLjcgMC0xLjI2LS41MzItMS4yNi0xLjYyNFY2LjUwOGMwLTEuNzM2LjM5Mi0yLjEgMS41NC0yLjF6IiBmaWxsPSIjQTZDRTM5Ii8+PC9zdmc+Cg==" alt="Don Schnitzius dot com"></a>
+  <a href="http://www.linkedin.com/in/donschnitzius/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222" alt="LinkedIn"></a>
+  <a href="http://twitter.com/don1138"><img src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&colorA=222" alt="Twitter"></a>
+  <a href="mailto:don.schnitzius@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=222" alt="Gmail"></a>
 </p>
 <br/>
 
@@ -65,15 +65,20 @@
 
 <img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="256" width="256" style="margin:1rem">
 
-I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> train with the v.2.8 update. The UI was such a massive improvement that it got me hooked.
+### 🖖 Blenderer is the new Trekkie! 🖖
 
-🖖 **Blenderer** is the new **Trekkie**! 🖖
+I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> train just as 2.79 became 2.80. Previous version of the software were too random and confusing to hold my engagement, but the updated UI of 2.80 was such a massive improvement that it hooked me, and I've been addicted ever since.
 
-- 😍 I love modeling brutalist and mid-century modern furniture and architecture. I've posted some projects on <a href="https://www.artstation.com/don1138">**ArtStation**</a>.
+- I like to model brutalist and mid-century modern furniture, architecture, and industrial machinery.
+- I love how easy it is to manipulate Blender using Python. All my add-ons are available as Github repos.
 
-- 🌱 I’m *slowly* but continually learning how to use Python to manipulate Blender
+I post and comment about Blender on these sites:
 
-- 👯 I’m looking to collaborate on improving my Blender add-ons, and on Blender stuff in general.
+<p align="left">
+  <a href="https://www.artstation.com/don1138"><img alt="Artstation" src="https://img.shields.io/badge/-Artstation-13AFF0?style=for-the-badge&logo=artstation&colorA=222"></a>
+  <a href="https://blenderartists.org/u/don1138/activity/portfolio"><img alt="Blender Artists" src="https://img.shields.io/badge/-Blender Artists-F5792A?style=for-the-badge&logo=blender&colorA=222"></a>
+  <a href="https://www.twitter.com/don1138"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&colorA=222"></a>
+</p>
 
 <br/><br/><hr>
 
