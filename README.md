@@ -67,7 +67,7 @@ You can find me at these links:
 
 ### 🖖 Blenderer is the new Trekkie! 🖖
 
-I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> train just as 2.79 became 2.80. Previous version of the software were too random and confusing to hold my engagement, but the updated UI of 2.80 was such a massive improvement that it hooked me, and I've been addicted ever since.
+I got on the <a href="https://twitter.com/hashtag/Blender3d">**#Blender3D**</a> train just as 2.79 became 2.80. Previous version of the software were too random and confusing to keep me engaged, but the updated UI of 2.80 was such a massive improvement that it hooked me, and I've been addicted ever since.
 
 - I like to model brutalist and mid-century modern furniture, architecture, and industrial machinery.
 - I love how easy it is to manipulate Blender using Python. All my add-ons are available as Github repos.
