@@ -88,6 +88,6 @@ I post and comment about Blender on these sites:
   <img src="https://badges.pufler.dev/years/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="don1138 Years Active">
   <img src="https://badges.pufler.dev/commits/monthly/don1138?style=for-the-badge&colorA=222&colorB=62579d" alt="Monthly Commits"><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=don1138&hide_title=true&show_icons=true&title_color=fffffff5&text_color=e9ff1deb&icon_color=62579d&bg_color=90,16151d,191626,393559,62579d" alt="Github Stats for don1138" />
-</p>
 
-<!-- [<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=don1138)" src="https://github.com/ryo-ma/github-profile-trophy) -->
+  <img alt="don113's github trophy" src="https://github-profile-trophy.vercel.app/?username=don1138&row=1">
+</p>
