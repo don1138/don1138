@@ -1,6 +1,6 @@
 ![Don Schnitzius Github Header](https://raw.githubusercontent.com/don1138/don1138/master/github-header.jpg)
 
-<br/><img align="right" src="https://komarev.com/ghpvc/?username=don1138&style=flat-square&label=PROFILE+VIEWS&color=b22e4e">
+<img align="right" src="https://komarev.com/ghpvc/?username=don1138&style=flat-square&label=PROFILE+VIEWS&color=b22e4e">
 
 # Hi, I'm Don Schnitzius
 
