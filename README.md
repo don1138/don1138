@@ -9,7 +9,7 @@
 You can find me at these links:
 
 [![Don Schnitzius](https://img.shields.io/badge/-DONSCHNITZIUS.COM-lightslategray?style=for-the-badge&colorA=222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjkyIDBBMy4wOCAzLjA4IDAgMCAxIDE0IDMuMDh2Ny44NEEzLjA4IDMuMDggMCAwIDEgMTAuOTIgMTRIMy4wOEEzLjA4IDMuMDggMCAwIDEgMCAxMC45MlYzLjA4QTMuMDggMy4wOCAwIDAgMSAzLjA4IDBoNy44NHpNNC4wNCAyQzMuMDA0IDIgMi41IDIuNTMyIDIuNSAzLjU5NnY2LjcyYzAgMS4yODguNDQ4IDEuODQ4IDEuNTk2IDEuODQ4aDEuODJjMy44MDggMCA1LjcxMi0xLjcwOCA1LjcxMi01LjA5NiAwLTEuOTMyLS42MTYtMy4zNi0xLjkzMi00LjJDOC4zMjQgMiA3LjU5NiAyIDQuMDQgMnptMi43MiAyLjQwOGMuODEyIDAgMi4xLjc1NiAyLjEgMi43NzIgMCAxLjIzMi0uNzU2IDIuNTc2LTIuMzggMi41NzYtLjcgMC0xLjI2LS41MzItMS4yNi0xLjYyNFY2LjUwOGMwLTEuNzM2LjM5Mi0yLjEgMS41NC0yLjF6IiBmaWxsPSIjQTZDRTM5Ii8+PC9zdmc+Cg==)](http://www.donschnitzius.com/)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-lightslategray?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222)](http://www.linkedin.com/in/donschnitzius/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-lightslategray?style=for-the-badge&logo=linkedin&logoColor=white&colorA=222)](http://www.linkedin.com/in/donschnitzius)
 [![Twitter](https://img.shields.io/badge/-TWITTER-lightslategray?style=for-the-badge&logo=twitter&logoColor=white&colorA=222)](http://twitter.com/don1138)
 [![Gmail](https://img.shields.io/badge/-GMAIL-lightslategray?style=for-the-badge&logo=gmail&logoColor=white&colorA=222)](mailto:don.schnitzius@gmail.com)
 
