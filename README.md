@@ -4,7 +4,7 @@
 
 # Hi, I'm Don Schnitzius
 
-### I’m an **Interface Designer** and **Front-End Developer** living in Chicago.
+### I’m a **UI/UX Designer** and **Front-End Developer** living in Chicago.
 
 ### I help designers turn their ideas into code, and developers turn their code into beautiful UIs.
 
