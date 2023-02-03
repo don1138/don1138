@@ -18,8 +18,8 @@ You can find me at these links:
 
 ## My Core Tools
 
-<p align="left" style="pointer-events: none;">
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&colorA=222">
+<p align="left">
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&colorA=222" style="pointer-events: none;">
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&colorA=222">
 <img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&colorA=222">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&colorA=222">
