@@ -4,11 +4,17 @@
 
 # Hi, I'm Don Schnitzius
 
-## I’m a freelance remote designer, developer, and teacher from Chicago, USA
+### I’m an **Interface Designer** and **Front-End Developer** living in Chicago.
 
-- Ask me about **SwiftUI**, **Wordpress PHP**, and **Blender** (see below)
+### I help designers turn their ideas into code, and developers turn their code into beautiful UIs.
 
-You can find me at these links:
+---
+
+> Ask me about **SwiftUI**, **Wordpress PHP**, and **Blender** (see below)
+
+---
+
+## Find Me At
 
 [![Don Schnitzius](https://img.shields.io/badge/-DONSCHNITZIUS.COM-gray?style=for-the-badge&colorA=b22e4e&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjkyIDBBMy4wOCAzLjA4IDAgMCAxIDE0IDMuMDh2Ny44NEEzLjA4IDMuMDggMCAwIDEgMTAuOTIgMTRIMy4wOEEzLjA4IDMuMDggMCAwIDEgMCAxMC45MlYzLjA4QTMuMDggMy4wOCAwIDAgMSAzLjA4IDBoNy44NHpNNC4wNCAyQzMuMDA0IDIgMi41IDIuNTMyIDIuNSAzLjU5NnY2LjcyYzAgMS4yODguNDQ4IDEuODQ4IDEuNTk2IDEuODQ4aDEuODJjMy44MDggMCA1LjcxMi0xLjcwOCA1LjcxMi01LjA5NiAwLTEuOTMyLS42MTYtMy4zNi0xLjkzMi00LjJDOC4zMjQgMiA3LjU5NiAyIDQuMDQgMnptMi43MiAyLjQwOGMuODEyIDAgMi4xLjc1NiAyLjEgMi43NzIgMCAxLjIzMi0uNzU2IDIuNTc2LTIuMzggMi41NzYtLjcgMC0xLjI2LS41MzItMS4yNi0xLjYyNFY2LjUwOGMwLTEuNzM2LjM5Mi0yLjEgMS41NC0yLjF6IiBmaWxsPSIjQTZDRTM5Ii8+PC9zdmc+Cg==)](http://www.donschnitzius.com/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-gray?style=for-the-badge&logo=linkedin&logoColor=white&colorA=b22e4e)](http://www.linkedin.com/in/donschnitzius)
@@ -25,7 +31,7 @@ You can find me at these links:
 ![Swift](https://img.shields.io/badge/-Swift-gray?style=for-the-badge&logo=swift&logoColor=white&colorA=b22e4e)
 ![WordPress](https://img.shields.io/badge/-WordPress-gray?style=for-the-badge&logo=wordpress&logoColor=white&colorA=b22e4e)
 
-### I'm Also Experienced In
+## I'm Also Experienced In
 
 ![Android](https://img.shields.io/badge/-Android-gray?style=for-the-badge&logo=android&logoColor=white&colorA=b22e4e)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-gray?style=for-the-badge&logo=gatsby&logoColor=white&colorA=b22e4e)
@@ -39,7 +45,7 @@ You can find me at these links:
 ![Greensock](https://img.shields.io/badge/-Greensock-gray?style=for-the-badge&logo=GreenSock&logoColor=white&colorA=b22e4e)
 ![Three](https://img.shields.io/badge/-Three%20JS-gray?style=for-the-badge&logo=Three.js&logoColor=white&colorA=b22e4e)
 
-### My Most-Used Applications
+## My Most-Used Applications
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-gray?style=for-the-badge&logo=android-studio&logoColor=white&colorA=b22e4e)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-gray?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=b22e4e)
@@ -52,6 +58,8 @@ You can find me at these links:
 ![Illustrator](https://img.shields.io/badge/-Illustrator-gray?style=for-the-badge&logo=adobe-illustrator&logoColor=white&colorA=b22e4e)
 ![InDesign](https://img.shields.io/badge/-InDesign-gray?style=for-the-badge&logo=adobe-indesign&logoColor=white&colorA=b22e4e)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-gray?style=for-the-badge&logo=adobe-photoshop&logoColor=white&colorA=b22e4e)
+
+---
 
 ## Blender
 
