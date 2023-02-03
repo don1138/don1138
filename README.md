@@ -16,16 +16,16 @@ You can find me at these links:
 </p>
 <br/>
 
-## [](#core)My Core Tools
+## My Core Tools
 
 <p align="left">
-<a href="#core"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&colorA=222"></a>
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&colorA=222">
-<img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&colorA=222">
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&colorA=222">
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&colorA=222">
-<img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&colorA=222">
-<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&colorA=222">
+<picture><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&colorA=222"></picture>
+<picture><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&colorA=222"></picture>
+<picture><img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&colorA=222"></picture>
+<picture><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&colorA=222"></picture>
+<picture><img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&colorA=222"></picture>
+<picture><img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&colorA=222"></picture>
+<picture><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&colorA=222"></picture>
 </p>
 
 ### I'm Also Experienced In
