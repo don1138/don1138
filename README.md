@@ -16,7 +16,7 @@ You can find me at these links:
 </p>
 <br/>
 
-## [My Core Tools](#core)
+## [](#core)My Core Tools
 
 <p align="left">
 <a href="#core"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&colorA=222"></a>
