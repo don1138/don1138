@@ -18,6 +18,16 @@ You can find me at these links:
 
 ## My Core Tools
 
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&colorA=222)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&colorA=222)
+![GIT](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&colorA=222)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&colorA=222)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&colorA=222)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&colorA=222)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&colorA=222)
+
 <p align="left">
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&colorA=222">
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&colorA=222">
