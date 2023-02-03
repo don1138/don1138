@@ -28,7 +28,7 @@ You can find me at these links:
 
 ### I'm Also Experienced In
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&colorA=222")
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white&colorA=222")
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&colorA=222")
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&colorA=222")
 ![Node](https://img.shields.io/badge/-Node&nbsp;JS-339933?style=flat-square&logo=node.js&colorA=222")
