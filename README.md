@@ -18,7 +18,7 @@
 
 [![Don Schnitzius](https://img.shields.io/badge/-DONSCHNITZIUS.COM-gray?style=for-the-badge&colorA=b22e4e&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEwLjkyIDBBMy4wOCAzLjA4IDAgMCAxIDE0IDMuMDh2Ny44NEEzLjA4IDMuMDggMCAwIDEgMTAuOTIgMTRIMy4wOEEzLjA4IDMuMDggMCAwIDEgMCAxMC45MlYzLjA4QTMuMDggMy4wOCAwIDAgMSAzLjA4IDBoNy44NHpNNC4wNCAyQzMuMDA0IDIgMi41IDIuNTMyIDIuNSAzLjU5NnY2LjcyYzAgMS4yODguNDQ4IDEuODQ4IDEuNTk2IDEuODQ4aDEuODJjMy44MDggMCA1LjcxMi0xLjcwOCA1LjcxMi01LjA5NiAwLTEuOTMyLS42MTYtMy4zNi0xLjkzMi00LjJDOC4zMjQgMiA3LjU5NiAyIDQuMDQgMnptMi43MiAyLjQwOGMuODEyIDAgMi4xLjc1NiAyLjEgMi43NzIgMCAxLjIzMi0uNzU2IDIuNTc2LTIuMzggMi41NzYtLjcgMC0xLjI2LS41MzItMS4yNi0xLjYyNFY2LjUwOGMwLTEuNzM2LjM5Mi0yLjEgMS41NC0yLjF6IiBmaWxsPSIjRkZGIi8+PC9zdmc+Cg==)](http://www.donschnitzius.com/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-gray?style=for-the-badge&logo=linkedin&logoColor=white&colorA=b22e4e)](http://www.linkedin.com/in/donschnitzius)
-[![Twitter](https://img.shields.io/badge/-TWITTER-gray?style=for-the-badge&logo=twitter&logoColor=white&colorA=b22e4e)](http://twitter.com/don1138)
+[![Twitter](https://img.shields.io/badge/-TWITTER-gray?style=for-the-badge&logo=x&logoColor=white&colorA=b22e4e)](http://twitter.com/don1138)
 [![Gmail](https://img.shields.io/badge/-GMAIL-gray?style=for-the-badge&logo=gmail&logoColor=white&colorA=b22e4e)](mailto:don.schnitzius@gmail.com)
 
 ## My Core Tools
@@ -48,7 +48,7 @@
 ## My Most-Used Applications
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-gray?style=for-the-badge&logo=android-studio&logoColor=white&colorA=b22e4e)
-![VS Code](https://img.shields.io/badge/-VS%20Code-gray?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=b22e4e)
+![VS Code](https://img.shields.io/badge/-VS%20Code-gray?style=for-the-badge&logoColor=white&colorA=b22e4e&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJhIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNNzAuOTEyLDk5LjU3MmMxLjU3NS42MTcsMy4zNzEuNTc4LDQuOTYxLS4xOTJsMjAuNTg4LTkuOTU4YzIuMTY0LTEuMDQ2LDMuNTQtMy4yNDcsMy41NC01LjY2MlYxNi4yMzljMC0yLjQxNS0xLjM3Ni00LjYxNS0zLjU0LTUuNjYyTDc1Ljg3Mi42MTljLTIuMDg2LTEuMDA5LTQuNTI4LS43NjItNi4zNTkuNTc2LS4yNjEuMTkxLS41MTEuNDA1LS43NDQuNjRMMjkuMzU1LDM3Ljk3OWwtMTcuMTY4LTEzLjFjLTEuNTk4LTEuMjE5LTMuODM0LTEuMTE5LTUuMzE4LjIzOGwtNS41MDYsNS4wMzVjLTEuODE2LDEuNjYtMS44MTgsNC41MzEtLjAwNCw2LjE5NGwxNC44ODksMTMuNjUzTDEuMzU5LDYzLjY1NGMtMS44MTMsMS42NjMtMS44MTEsNC41MzQuMDA0LDYuMTk0bDUuNTA2LDUuMDM1YzEuNDg0LDEuMzU3LDMuNzIsMS40NTgsNS4zMTguMjM4bDE3LjE2OC0xMy4wOTksMzkuNDE0LDM2LjE0NGMuNjI0LjYyNywxLjM1NiwxLjA5OSwyLjE0MywxLjQwN1pNNzUuMDE1LDI3LjE4MWwtMjkuOTA2LDIyLjgxOSwyOS45MDYsMjIuODE5VjI3LjE4MVoiIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIwIi8+PC9zdmc+)
 ![Xcode](https://img.shields.io/badge/-Xcode-gray?style=for-the-badge&logo=xcode&logoColor=white&colorA=b22e4e)
 ![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=figma&logoColor=white&colorA=b22e4e)
 ![Invision](https://img.shields.io/badge/-InVision-gray?style=for-the-badge&logo=invision&logoColor=white&colorA=b22e4e)
@@ -76,7 +76,7 @@ I post and comment about Blender on these sites:
 
 [![Artstation](https://img.shields.io/badge/-Artstation-gray?style=for-the-badge&logo=artstation&logoColor=white&colorA=b22e4e)](https://www.artstation.com/don1138)
 [![Blender Artists](https://img.shields.io/badge/-Blender%20Artists-gray?style=for-the-badge&logo=blender&logoColor=white&colorA=b22e4e)](https://blenderartists.org/u/don1138/activity/portfolio)
-[![Twitter](https://img.shields.io/badge/-Twitter-gray?style=for-the-badge&logo=twitter&logoColor=white&colorA=b22e4e)](https://www.twitter.com/don1138)
+[![Twitter](https://img.shields.io/badge/-Twitter-gray?style=for-the-badge&logo=x&logoColor=white&colorA=b22e4e)](https://www.twitter.com/don1138)
 <hr>
 
 <p align="center">
