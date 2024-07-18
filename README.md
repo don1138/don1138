@@ -51,19 +51,19 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-gray?style=for-the-badge&logoColor=white&colorA=b22e4e&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJhIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNNzAuOTEyLDk5LjU3MmMxLjU3NS42MTcsMy4zNzEuNTc4LDQuOTYxLS4xOTJsMjAuNTg4LTkuOTU4YzIuMTY0LTEuMDQ2LDMuNTQtMy4yNDcsMy41NC01LjY2MlYxNi4yMzljMC0yLjQxNS0xLjM3Ni00LjYxNS0zLjU0LTUuNjYyTDc1Ljg3Mi42MTljLTIuMDg2LTEuMDA5LTQuNTI4LS43NjItNi4zNTkuNTc2LS4yNjEuMTkxLS41MTEuNDA1LS43NDQuNjRMMjkuMzU1LDM3Ljk3OWwtMTcuMTY4LTEzLjFjLTEuNTk4LTEuMjE5LTMuODM0LTEuMTE5LTUuMzE4LjIzOGwtNS41MDYsNS4wMzVjLTEuODE2LDEuNjYtMS44MTgsNC41MzEtLjAwNCw2LjE5NGwxNC44ODksMTMuNjUzTDEuMzU5LDYzLjY1NGMtMS44MTMsMS42NjMtMS44MTEsNC41MzQuMDA0LDYuMTk0bDUuNTA2LDUuMDM1YzEuNDg0LDEuMzU3LDMuNzIsMS40NTgsNS4zMTguMjM4bDE3LjE2OC0xMy4wOTksMzkuNDE0LDM2LjE0NGMuNjI0LjYyNywxLjM1NiwxLjA5OSwyLjE0MywxLjQwN1pNNzUuMDE1LDI3LjE4MWwtMjkuOTA2LDIyLjgxOSwyOS45MDYsMjIuODE5VjI3LjE4MVoiIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIwIi8+PC9zdmc+)
 ![Xcode](https://img.shields.io/badge/-Xcode-gray?style=for-the-badge&logo=xcode&logoColor=white&colorA=b22e4e)
 ![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=figma&logoColor=white&colorA=b22e4e)
-<!-- ![Invision](https://img.shields.io/badge/-InVision-gray?style=for-the-badge&logo=invision&logoColor=white&colorA=b22e4e) -->
 ![Sketch](https://img.shields.io/badge/-Sketch-gray?style=for-the-badge&logo=sketch&logoColor=white&colorA=b22e4e)
 ![Blender](https://img.shields.io/badge/-Blender-gray?style=for-the-badge&logo=blender&logoColor=white&colorA=b22e4e)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-gray?style=for-the-badge&logo=adobe-after-effects&logoColor=white&colorA=b22e4e)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-gray?style=for-the-badge&logo=adobe-illustrator&logoColor=white&colorA=b22e4e)
 ![InDesign](https://img.shields.io/badge/-InDesign-gray?style=for-the-badge&logo=adobe-indesign&logoColor=white&colorA=b22e4e)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-gray?style=for-the-badge&logo=adobe-photoshop&logoColor=white&colorA=b22e4e)
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-gray?style=for-the-badge&logoColor=white&colorA=b22e4e&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJhIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDMuMSA4NS42Ij48cGF0aCBkPSJNNTcuNCw2LjZ2MTcuOWMtNS44LTQuMy0xNS4zLTcuNi0yNC42LTcuNi04LjMsMC0xMi45LDMuMS0xMi45LDgsMCw1LjIsNS4zLDcuMywxNS4zLDkuOSwxMy4xLDMuNCwyNy4zLDcuOSwyNy4zLDI0LjgsMCwxNS43LTEyLjMsMjYtMzMuNCwyNi0xMS40LDAtMjEuNS0zLjEtMjguOC04LjN2LTE5LjRjNi43LDUuOSwxNiwxMC43LDI3LjksMTAuNyw5LjIsMCwxNC40LTMuNCwxNC40LTguOCwwLTUuOC02LjQtNy43LTE3LjQtMTFDMTIsNDUuMSwwLDQwLDAsMjUuNFMxMiwwLDMyLDBjOS42LDAsMTkuNCwyLjYsMjUuNCw2LjZaIiBmaWxsPSIjZjJmMmYyIiBzdHJva2Utd2lkdGg9IjAiLz48cGF0aCBkPSJNNzkuMSw3Mi40YzAtNi44LDUuMi0xMiwxMi0xMnMxMiw1LjIsMTIsMTItNS4zLDEyLTEyLDEyYy02LjguMS0xMi01LjMtMTItMTJaIiBmaWxsPSIjZjJmMmYyIiBzdHJva2Utd2lkdGg9IjAiLz48L3N2Zz4=)
 
 ---
 
 ## Blender
 
-<img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style.gif" height="256" width="256" style="margin:1rem">
+<img align="right" src="https://raw.githubusercontent.com/don1138/don1138/master/d_logo-mandalorian_style_grey.gif" height="256" width="256" style="margin:1rem">
 
 ### 🖖 Blenderer is the new Trekkie! 🖖
 
